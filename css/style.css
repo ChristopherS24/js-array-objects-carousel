@@ -7,4 +7,31 @@ RESET
     box-sizing: border-box;
 }
 
+#carosello {
+    width: 350px;
+}
 
+img {
+    width: 100%;
+    
+}
+
+.carousel-container {
+    margin: auto;
+    height: 100vh;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-control {
+    
+    top: 50%;
+    
+}
+
+.control {
+    display: flex;
+    justify-content: center;
+}
